@@ -1,6 +1,6 @@
 import os
 import shutil
-import platform
+import platform 
 import subprocess
 import tkinter as tk
 from tkinter import ttk, messagebox, filedialog, simpledialog
